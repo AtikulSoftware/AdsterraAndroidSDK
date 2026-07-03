@@ -34,6 +34,31 @@ dependencies {
 }
 ```
 
+## Initialize SDK
+```java
+import android.app.Application;
+import com.devatikul.adsterrasdk.AdsterraSDK;
+
+public class MyApp extends Application {
+    @Override
+    public void onCreate() {
+        super.onCreate();
+        AdsterraSDK.init(this);
+        AdsterraSDK.getInstance().setDebugMode(true);
+    }
+}
+```
+
+## Add name in `AndroidManifest.xml`
+```xml
+    <application
+        ...
+        android:name=".MyApp"
+        ... >
+        
+    </application>
+```
+
 ## Banner Example
 ```xml
     <com.devatikul.adsterrasdk.banner.AdsterraBannerView
