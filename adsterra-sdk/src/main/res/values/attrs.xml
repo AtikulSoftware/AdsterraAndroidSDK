@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="AdsterraBannerView">
+        <attr name="adUnitKey" format="string" />
+        <attr name="adSize" format="enum">
+            <enum name="banner_320x50" value="0" />
+            <enum name="large_banner_320x100" value="1" />
+            <enum name="medium_rectangle_300x250" value="2" />
+            <enum name="leaderboard_728x90" value="3" />
+            <enum name="skyscraper_160x600" value="4" />
+            <enum name="half_page_300x600" value="5" />
+        </attr>
+    </declare-styleable>
+</resources>
