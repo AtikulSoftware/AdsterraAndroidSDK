@@ -14,7 +14,7 @@
 - Java Support
 - Kotlin Support
 - AndroidX Compatible
-- API 21+
+- API 23+
 
 ## Gradle (Groovy)
 ```gradle
