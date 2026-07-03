@@ -42,19 +42,22 @@ mavenPublishing {
         licenses {
             license {
                 name = "The Apache License, Version 2.0"
-                url = "http://www.apache.org/licenses/LICENSE-2.0.txt"
-                distribution = "http://www.apache.org/licenses/LICENSE-2.0.txt"
+                url = "https://www.apache.org/licenses/LICENSE-2.0.txt"
+                distribution = "https://www.apache.org/licenses/LICENSE-2.0.txt"
             }
         }
         developers {
             developer {
                 id = "devatikul"
                 name = "Md. Atikul Islam"
+                email = "contact@devatikul.com"
                 url = "https://github.com/AtikulSoftware"
             }
         }
         scm {
-            url = 'https://github.com/AtikulSoftware/AdsterraAndroidSDK'
+            url = "https://github.com/AtikulSoftware/AdsterraAndroidSDK"
+            connection = "scm:git:https://github.com/AtikulSoftware/AdsterraAndroidSDK.git"
+            developerConnection = "scm:git:ssh://git@github.com:AtikulSoftware/AdsterraAndroidSDK.git"
         }
     }
 }
