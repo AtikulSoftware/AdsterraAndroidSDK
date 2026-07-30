@@ -4,7 +4,15 @@
 
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.atikulsoftware/adsterra-sdk.svg)](https://central.sonatype.com/artifact/io.github.atikulsoftware/adsterra-sdk)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
-[![Android](https://img.shields.io/badge/Android-API%2021%2B-brightgreen.svg)]()
+[![Android](https://img.shields.io/badge/Android-API%2023%2B-brightgreen.svg)]()
+
+<h2 align="center">🎥 Watch Full Tutorial</h2>
+
+<p align="center">
+  <a href="https://youtu.be/AbCdEfGhIjk">
+    <img src="https://img.youtube.com/vi/4PppvuF-aQg/maxresdefault.jpg" alt="Watch Tutorial">
+  </a>
+</p>
 
 ## ✨ Features
 
