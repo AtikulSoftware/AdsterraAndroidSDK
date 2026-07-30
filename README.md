@@ -9,7 +9,7 @@
 <h2 align="center">🎥 Watch Full Tutorial</h2>
 
 <p align="center">
-  <a href="https://youtu.be/AbCdEfGhIjk">
+  <a href="https://youtu.be/4PppvuF-aQg?si=FY-Teax9sMyOVGsk">
     <img src="https://img.youtube.com/vi/4PppvuF-aQg/maxresdefault.jpg" alt="Watch Tutorial">
   </a>
 </p>
